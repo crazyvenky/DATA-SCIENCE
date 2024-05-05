@@ -1,5 +1,5 @@
 **Data Science Playground **
-![Bill board of data science](images/readme.png)
+![Bill board of data science](images/readme_banner.jpeg)
 
 
 
